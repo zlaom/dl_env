@@ -5,7 +5,7 @@
 - cuda version 11.4.2
 - miniconda3 latest
 - aliyun apt source
-- basic development tools `wget git tmux`
+- basic development tools `wget git tmux curl vim zip`
 - oh-my-zsh with plugins `zsh-autosuggestions zsh-syntax-highlighting`
 - custom password setting
 
