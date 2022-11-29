@@ -13,7 +13,7 @@
 
 - add you ssh publice key to `authorized_keys` file
 - enter root path
-- run `docker build -t [image name self define] .`
+- run `docker build -t [image name self define] .` for example `docker build -t my_env_zsh:latest .`
 - run `docker run -d --gpus all --shm-size=16G -p 1022:22 -p 1080:8080 -v /data:/data my_env_zsh:v1`
 - use ssh connect to port `1022` with user `root`
 
