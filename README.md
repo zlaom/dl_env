@@ -9,6 +9,10 @@
 - oh-my-zsh with plugins `zsh-autosuggestions zsh-syntax-highlighting`
 - custom password setting
 
+## Change cuda version
+
+if cuda version not match you drive you can change cuda version by search in [nvidia/cuda/tags](https://hub.docker.com/r/nvidia/cuda/tags)
+
 ## Auto connect
 
 - add you ssh publice key to `authorized_keys` file
